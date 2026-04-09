@@ -169,7 +169,7 @@ uniform float3 _ASCIIColor <
     ui_label = "ASCII Color";
     ui_type = "color";
     ui_spacing = 4;
-> = 0.0f;
+> = 255.0f;
 
 uniform float3 _BackgroundColor <
     ui_category = "Color Settings";
